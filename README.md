@@ -1,2 +1,3 @@
-# ktor-http-server
-A simple http server based on Ktor.
+# ktor-http-server (code name: _Sinew_)
+
+A simple http server based on [Ktor](https://ktor.io/).
